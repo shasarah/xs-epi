@@ -1,4 +1,4 @@
 # xs-epi
 
-My solutions to EPI problems.
+Crack EPI in 180 days.
 
