@@ -1,4 +1,4 @@
 # xs-epi
 
-Crack EPI in 180 days.
+Crack EPI in 180 weeks.
 
